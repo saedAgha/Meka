@@ -1,0 +1,15 @@
+{
+  "name": "meka",
+  "version": "1.0.0",
+  "description": "Our Started Project",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saedAgha/Meka.git"
+  },
+  "author": "sofer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saedAgha/Meka/issues"
+  } 
+}
